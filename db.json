@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "name": "gbgf",
+      "email": "bgfgb",
+      "password": "gbgfg",
+      "id": 2
+    },
+    {
+      "name": "g",
+      "email": "ggdf",
+      "password": "gfgdfg",
+      "id": 3
+    },
+    {
+      "name": "dfg",
+      "email": "ggdfg",
+      "password": "gdfgg",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    }
+  ],
+  "teas": [
+    {
+      "tea": 7,
+      "date": "2023-02-01T15:02",
+      "id": 19
+    },
+    {
+      "tea": 45,
+      "date": "2023-02-02T15:20",
+      "id": 20
+    },
+    {
+      "tea": 54,
+      "date": "2023-02-03T16:20",
+      "id": 21
+    },
+    {
+      "tea": 4,
+      "date": "2023-02-04T15:29",
+      "id": 22
+    },
+    {
+      "tea": 52,
+      "date": "2023-02-06T16:33",
+      "id": 23
+    },
+    {
+      "tea": "9",
+      "date": "2023-02-14T17:45",
+      "id": 24
+    },
+    {
+      "tea": "5",
+      "date": "2023-02-05T18:41",
+      "id": 25
+    }
+  ]
+}
